@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "ESP32_SEN0377",
+			"path": "ESP32_SEN0377"
+		},
+		{
+			"name": "ESP32_CO2",
+			"path": "ESP32_CO2"
+		},
+		{
+			"name": "ESP32_DHT22",
+			"path": "ESP32_DHT22"
+		},
+		{
+			"name": "ESP32_Firebase",
+			"path": "ESP32_Firebase"
+		},
+		{
+			"name": "Integration",
+			"path": "Integration"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp"
+		}
+	}
+}
